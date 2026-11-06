@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2772","Login unsuccessful with incorrect username and Password.","chromium","2026-11-06","passed","2026-11-06","","LoginPageTests.spec.ts","",""
+"","4817","Check if user is able to add item to the shopping cart.","chromium","2026-11-06","passed","2026-11-06","","shoppingKartTests.spec.ts","",""
+"","3597","Login Successful","chromium","2026-11-06","passed","2026-11-06","","LoginPageTests.spec.ts","",""
+"","5492","Check if user is able to add an item to the shopping cart and checkout.","chromium","2026-11-06","passed","2026-11-06","","shoppingKartTests.spec.ts","",""
+"","2978","Login unsuccessful with username in incorrect format and Password.","chromium","2026-11-06","passed","2026-11-06","","LoginPageTests.spec.ts","",""
